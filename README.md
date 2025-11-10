@@ -111,11 +111,12 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy
 
 ```
 100m-sprint-performance-analysis/
-├── CSE163_Final_Project.ipynb
-├── README.md
-└── data/
-   ├── athlete_events.csv         # Olympic athletes data
-   └── sprints.csv               # Sprint performance data
+├── CSE163_Final_Project.ipynb # Main analysis notebook
+├── athlete_events.csv # Dataset of Olympic athletes
+├── sprints.csv # Sprint performance dataset
+├── README.md # Project documentation
+├── .Rhistory # R environment history (can ignore)
+└── .DS_Store # System file (can ignore)
 ```
 
 ## Limitations
